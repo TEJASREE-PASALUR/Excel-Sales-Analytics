@@ -26,11 +26,11 @@ Microsoft Excel | Pivot Tables | Data Cleaning | Business Analysis | Report Maki
 - Accurate analysis using Excel formulas and Pivot Tables
 - Consistent and clean report formatting
 
-## 🔚 Learnings
+## 📈 Learnings
 - Project structuring and best practices for documentation.
 - Analyzed sales data effectively using Excel
 - Enhancing analytical and problem-solving skills in a real-world business context.
 
-## 📈 Result
+## 🔚 Result
 The final report enabled clear visibility into sales trends, top-performing products, and customer contributions, helping highlight potential areas for revenue growth and performance improvement through data-driven insights.
 
