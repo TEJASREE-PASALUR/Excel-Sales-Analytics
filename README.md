@@ -1,8 +1,26 @@
+## Excited to share my latest Sales Analytics project where I built a comprehensive business sales report for Atliq Hardwares using Microsoft Excel.
+
 # Comprehensive Sales Analytics and Reporting in Excel
 Turning Sales Data into Insights
 
-# 📖 Description
-This Excel-based Sales Analytics project presents structured reports analyzing customer net sales performance, market performance versus targets, and top-performing products. The analysis includes division-wise sales reports, Top 5 and Bottom 5 products, new product performance for 2021, and top countries by sales in 2021. The project uses Excel reporting and analytical techniques to deliver accurate, data-driven insights.
+## ⭐ Statement
+Atliq Hardwares generated large volumes of sales data across divisions, customers, regions, and products, making it difficult for management to clearly understand business performance and identify growth opportunities.
+
+## 🎯 Task
+The goal was to create a structured and interactive Excel-based sales report that converts raw transactional data into meaningful insights for better business decision-making.
+
+## ⚙️ Action
+• Cleaned and organized raw sales datasets
+• Performed division-level and regional sales analysis
+• Built Pivot Tables and Pivot Charts for performance tracking
+• Analyzed Top & Bottom 5 products
+• Evaluated Customer Net Sales performance
+• Identified impact of New Products launched in 2021
+• Created sales insights by region and top-performing countries
+• Developed an interactive Excel report with slicers and KPIs
+
+## 🛠 Tools Used
+Microsoft Excel | Pivot Tables | Data Cleaning | Business Analysis | Report Making
 
 ## ✨ Features
 - Clear and easily understandable data presentation
@@ -10,13 +28,11 @@ This Excel-based Sales Analytics project presents structured reports analyzing c
 - Accurate analysis using Excel formulas and Pivot Tables
 - Consistent and clean report formatting
 
-## 🛠️ Built With
-- MS Excel
-- Power Pivot
-- Power Query
-- Pivot tables
-
-## 🔚 Conclusion
+## 🔚 Learnings
 - Project structuring and best practices for documentation.
 - Analyzed sales data effectively using Excel
 - Enhancing analytical and problem-solving skills in a real-world business context.
+
+## 📈 Result
+The final report enabled clear visibility into sales trends, top-performing products, and customer contributions, helping highlight potential areas for revenue growth and performance improvement through data-driven insights.
+
