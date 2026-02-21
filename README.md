@@ -1,5 +1,3 @@
-## Excited to share my latest Sales Analytics project where I built a comprehensive business sales report for Atliq Hardwares using Microsoft Excel.
-
 # Comprehensive Sales Analytics and Reporting in Excel
 Turning Sales Data into Insights
 
